@@ -8,11 +8,11 @@
 }
 
 h4{
-   font-size: 20px;
+   font-size: 23px;
 }
 
 p{
-   font-size: 15px;
+   font-size: 18px;
 }
 
 .navbar{
@@ -60,17 +60,17 @@ p{
 }
 
 .materi1 img{
-   width: 500pxpx;
+   width: 1000px;
    height: 500px;
 }
 
-.materi2 img{
-   width: 1000px;
+.materi2 .gambar img{
+   width: 800px;
    height: 500px;
 }
 
 .materi3 img{
-   width: 1000px;
+    width: 800px;
    height: 500px;
 }
 
@@ -80,7 +80,6 @@ p{
 }
 
 .materi2{
-   height: 100vh;
    margin-top: 100px;
    margin-left: 8%;
 }
@@ -91,7 +90,6 @@ p{
 
 .content{
    display: flex;
-
 }
 
 .content h4{
@@ -103,10 +101,9 @@ p{
    margin-top: -10px;
 }
 
-.content .artikel p{
+/* .content .artikel p{
    margin-top: -25px;
-
-}
+} */
 
 .gambar .teks{
    margin-right: 8%;
@@ -121,6 +118,11 @@ p{
 
 .materi3 .gambar{
    width: 70%;
+}
+
+.materi3 img{
+   width: 800px;
+   height: 500px;
 }
 
 .materi3 .artikel{
