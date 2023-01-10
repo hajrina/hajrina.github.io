@@ -60,8 +60,18 @@ p{
 }
 
 .materi1 img{
-   width: 50%;
-   height: 50%;
+   width: 1000px;
+   height: 500px;
+}
+
+.materi2 img{
+   width: 1000px;
+   height: 500px;
+}
+
+.materi3 img{
+   width: 1000px;
+   height: 500px;
 }
 
 .materi1 .materi{
